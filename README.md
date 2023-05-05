@@ -1,4 +1,4 @@
-# Netflix-Automatic-Skip-Intro
+# Netflix-Automatic-Skip-Intro (Chrome Extension)
 I made a simple automatic skip intro extension using GPT. I was sick of not wanting to keep clicking skip intro while watching short episodes like The Office. GPT helped me create this simple code that does the trick. I haven't uploaded to the extensions store as it requires a developer account. This requires you to be in developer mode to load. 
 
 Steps to Install:
